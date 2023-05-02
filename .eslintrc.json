@@ -13,8 +13,7 @@
     "es6": true
   },
   "rules": {
-    "quotes": ["error", "single"] // you can remove if you want
-    // Add your custom rules here
+    "quotes": ["error", "single"]
   },
   "settings": {
     "react": {
